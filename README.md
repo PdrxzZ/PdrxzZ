@@ -1,16 +1,14 @@
-## Hi there 👋
+## Olá meu queridos ⚡
 
-<!--
-**PdrxzZ/PdrxzZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Prazer, meus caros vizitantes. Me chamo **Pedro**
 
-Here are some ideas to get you started:
+- Estou estudando no [Alura](https://www.alura.com.br)
+- Aprendendo a escrever em Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Entre em contato caso precise ⭐ 
+
+00001099363330SP@al.educacao.sp.go.br
+
+@pdrx_diaz
+
+![](https://media3.giphy.com/media/QsZol42CPIjMzke1QW/giphy.webp?cid=790b7611yb7t06bksfahm415lwiyij6b4i9xcb1xbxys55a4&ep=v1_gifs_search&rid=giphy.webp&ct=g)
